@@ -2,6 +2,10 @@
 
 PDF integration plugin and example for Cordova/Phonegap 3.0
 
+MuPDF developer team: http://mupdf.com/
+
+Original source repository: http://git.ghostscript.com/?p=mupdf.git;a=summary
+
 ### Requirements
 
 Installed and configured adt (http://developer.android.com/sdk/installing/bundle.html) and ndk (http://developer.android.com/tools/sdk/ndk/index.html)
